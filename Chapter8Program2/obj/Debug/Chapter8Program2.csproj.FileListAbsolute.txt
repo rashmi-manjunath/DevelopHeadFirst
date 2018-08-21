@@ -1,0 +1,6 @@
+c:\users\rashmi\documents\visual studio 2015\Projects\Chapter8Program2\Chapter8Program2\bin\Debug\Chapter8Program2.exe.config
+c:\users\rashmi\documents\visual studio 2015\Projects\Chapter8Program2\Chapter8Program2\bin\Debug\Chapter8Program2.exe
+c:\users\rashmi\documents\visual studio 2015\Projects\Chapter8Program2\Chapter8Program2\bin\Debug\Chapter8Program2.pdb
+c:\users\rashmi\documents\visual studio 2015\Projects\Chapter8Program2\Chapter8Program2\obj\Debug\Chapter8Program2.csprojResolveAssemblyReference.cache
+c:\users\rashmi\documents\visual studio 2015\Projects\Chapter8Program2\Chapter8Program2\obj\Debug\Chapter8Program2.exe
+c:\users\rashmi\documents\visual studio 2015\Projects\Chapter8Program2\Chapter8Program2\obj\Debug\Chapter8Program2.pdb
