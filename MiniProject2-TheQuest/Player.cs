@@ -28,7 +28,7 @@ namespace MiniProject2_TheQuest
         }
         public Player(Game game, Point location):base(game,location)
         {
-            HitPoints = 1000;
+            HitPoints = 100;
         }
         public void Hit(int maxDamage, Random random)
         {
