@@ -1,0 +1,9 @@
+c:\users\rashmi\documents\visual studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\bin\Debug\MiniProject2-TheQuest.exe.config
+C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\bin\Debug\MiniProject2-TheQuest.exe
+C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\bin\Debug\MiniProject2-TheQuest.pdb
+C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\obj\Debug\MiniProject2-TheQuest.csprojResolveAssemblyReference.cache
+C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\obj\Debug\MiniProject2_TheQuest.Form1.resources
+C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\obj\Debug\MiniProject2_TheQuest.Properties.Resources.resources
+C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\obj\Debug\MiniProject2-TheQuest.csproj.GenerateResource.Cache
+C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\obj\Debug\MiniProject2-TheQuest.exe
+C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\MiniProject2-TheQuest\MiniProject2-TheQuest\obj\Debug\MiniProject2-TheQuest.pdb
