@@ -12,3 +12,9 @@ C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\Chapter2Program1-Condition
 C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\bin\Debug\WinFormTestApplication.exe.config
 C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\obj\Debug\WinFormTestApplication.exe
 C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\obj\Debug\WinFormTestApplication.pdb
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\bin\Debug\WinFormTestApplication.exe
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\bin\Debug\WinFormTestApplication.pdb
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\obj\Debug\Chapter2Program1-ConditionalTests.csprojResolveAssemblyReference.cache
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\obj\Debug\WinFormTestApplication.Form1.resources
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\obj\Debug\WinFormTestApplication.Properties.Resources.resources
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\WinFormTestApplication\obj\Debug\Chapter2Program1-ConditionalTests.csproj.GenerateResource.Cache

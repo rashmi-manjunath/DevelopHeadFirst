@@ -36,3 +36,22 @@ C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\Chapter1-ContactsOfOmniID\
 C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\Chapter1-ContactsOfOmniID\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.csproj.GenerateResource.Cache
 C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\Chapter1-ContactsOfOmniID\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.exe.manifest
 C:\Users\Rashmi\Documents\Visual Studio 2015\Projects\Chapter1-ContactsOfOmniID\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.application
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\ContactsOfOmniID.exe.config
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.exe
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.pdb
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\ContactsDB.mdf
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\ContactsDB_log.ldf
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\ContactsOfOmniID.exe.manifest
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\ContactsOfOmniID.application
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\ContactsOfOmniID.exe
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\ContactsOfOmniID.pdb
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\EntityFramework.dll
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\EntityFramework.xml
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.csprojResolveAssemblyReference.cache
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.Form1.resources
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.Properties.Resources.resources
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.csproj.GenerateResource.Cache
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.exe.manifest
+C:\Users\Rashmi\Documents\GitHub\DevelopHeadFirst\ContactsOfOmniID\obj\Debug\ContactsOfOmniID.application
