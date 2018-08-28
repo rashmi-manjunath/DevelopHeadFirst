@@ -16,7 +16,7 @@ namespace Chapter4Program3
         {
             InitializeComponent();
 
-            MenuMaker menu = new MenuMaker() { Randomnizer = new Random()};
+            MenuMaker menu = new MenuMaker();
 
             label1.Text = menu.getMenuItem();
             label2.Text = menu.getMenuItem();
