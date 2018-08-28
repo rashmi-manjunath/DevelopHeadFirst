@@ -111,8 +111,8 @@ namespace MiniProject1
                     }
                 }
             }
-
             race.Enabled = true;
+            Application.Exit();
         }
     }
 }

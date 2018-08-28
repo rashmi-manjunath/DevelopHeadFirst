@@ -42,8 +42,6 @@ namespace MiniProject1
         public void TakeStartPosition()
         {
             Location = 0;
-            MoveMyPictureBox(-Location);
         }
-       
     }
 }

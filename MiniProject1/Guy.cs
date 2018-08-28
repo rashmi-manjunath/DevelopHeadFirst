@@ -36,10 +36,6 @@ namespace MiniProject1
             }
             MyRadioButton.Text = Name + " has " + Cash + " bucks ";
         }
-        public void ClearBet()
-        {
-            MyBet.Amount = 0;
-        }
         public bool PlaceBet(int Amount,int Dog)
         {
             if(Amount <= Cash)
