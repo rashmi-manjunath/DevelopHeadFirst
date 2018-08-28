@@ -10,14 +10,7 @@ namespace Chapter5Program
     {
         private int numberOfCows;
 
-        private int feedMultiplier;
-        //public int FeedMultiplier
-        //{
-        //    get
-        //    {
-        //        return feedMultiplier;
-        //    }
-        //}
+        public int FeedMultiplier { get; private set; }
         public int NumberOfCows
         {
             get
@@ -27,15 +20,15 @@ namespace Chapter5Program
             set
             {
                 numberOfCows = value;
-                BagsOfFeed = numberOfCows * feedMultiplier;
+                BagsOfFeed = numberOfCows * FeedMultiplier;
             }
         }
         public int BagsOfFeed { get; private set; }
 
         public Farmer(int numberOfCows,int feedMultiplier)
         {
-            this.feedMultiplier = feedMultiplier;
-            NumberOfCows = numberOfCows;
+            FeedMultiplier = feedMultiplier;
+            this.NumberOfCows = numberOfCows;
         }
     }
 }
